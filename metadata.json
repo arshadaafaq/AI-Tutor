@@ -1,0 +1,10 @@
+{
+  "name": "AI Personal Tutor",
+  "description": "An interactive one-to-one conversational personal tutor powered by Gemini with live voice interaction and expressive avatar.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
